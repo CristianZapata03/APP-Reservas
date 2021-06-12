@@ -4,3 +4,11 @@ body{
 	background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	color:Black;
 }
+h2{
+	font-family: "Walbaum Display Heavy";
+	font-weight: bold;
+	text-align: center;
+	color:White;
+	text-shadow: 3px 3px 3px black;
+	font-size:30px;
+}
